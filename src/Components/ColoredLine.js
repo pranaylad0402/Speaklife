@@ -10,7 +10,7 @@ import React from 'react';
             marginLeft:60,
             alignSelf:'center',
             marginTop:20,
-            height:0.1
+            height:0.2
         }}
 
     />
